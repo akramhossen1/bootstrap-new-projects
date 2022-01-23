@@ -1,0 +1,25 @@
+.font-color{
+    color: #FA804C;
+}
+.align-item-1{
+    margin-left: 95.32px;
+   
+}
+.button-1{
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    width: 170PX;
+    height: 60px;
+    border-radius: 10px;
+    border: 0px;
+}
+.shoes{
+    background-color: #F1F1F1;
+    width: 358px;
+    height: 335px;
+    border-radius: 20px;
+    margin: 18px;    
+}
+
+.bg-color{
+    background-color:  #E5E5E5;
+}
